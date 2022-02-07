@@ -15,4 +15,6 @@
 ![demonstration](https://github.com/1azar/VK_DIS_WH_BOT/blob/master/demo_1.jpg)
 ![demonstration](https://github.com/1azar/VK_DIS_WH_BOT/blob/master/demo_2.jpg)
 
-### Демонстрация работы:
+### Демонстрация работы (сообщение отправляется из тестовой беседы):
+
+![demonstration](https://github.com/1azar/VK_DIS_WH_BOT/blob/master/demo_44.gif)
